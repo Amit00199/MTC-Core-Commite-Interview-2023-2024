@@ -1,8 +1,8 @@
-body {
+body { /* changing the cursor for the site*/
   cursor: url('https://icons.iconarchive.com/icons/designcontest/vintage/32/Pen-icon.png'), auto;
 }
 
-.header {
+.header { 
   height: 200px;
   width: 100%;
   background-color: #1a1a1a;
